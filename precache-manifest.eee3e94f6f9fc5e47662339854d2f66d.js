@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5991a7ff1a0e421d3752cd33d9db09b1",
+    "revision": "c21f05679c9f29a2299528b51b163604",
     "url": "/time-tracker/index.html"
   },
   {
-    "revision": "25a2e6585a440a93505a",
+    "revision": "da8d46dfc92fa1e7a045",
     "url": "/time-tracker/static/css/main.eb0251f2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/time-tracker/static/js/2.e43e813a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "25a2e6585a440a93505a",
-    "url": "/time-tracker/static/js/main.0e487e7b.chunk.js"
+    "revision": "da8d46dfc92fa1e7a045",
+    "url": "/time-tracker/static/js/main.9b8ac2cd.chunk.js"
   },
   {
     "revision": "10948de30e24101d6abc",
